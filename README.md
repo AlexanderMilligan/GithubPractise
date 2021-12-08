@@ -1,2 +1,2 @@
-# GithubPractise
-Practise Description
+# GithubPractice
+Practice Description
